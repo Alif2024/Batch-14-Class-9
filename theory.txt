@@ -1,0 +1,17 @@
+
+1.Inline
+2.Internal
+3.Ecternal
+
+
+
+CSS Unit
+1. Pixel (px)
+2. Percentage (%)
+
+===properties===
+1.border: 2px  solid black
+2. Margin   (top bottom left right)
+3. Padding  (top bottom left right)
+
+
