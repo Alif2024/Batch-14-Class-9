@@ -1,9 +1,9 @@
 .box{
     height: 200px;
     width: 200px;
-    border: 1px solid red;
+    border: 1px solid goldenrod;
     box-sizing: border-box;
-    border-radius: 2px;
+    border-radius: 4px;
     margin: auto; 
     /* margin-top: 30px; 
     margin-left: 40px; */
@@ -12,6 +12,6 @@
     /* background-color: red; */
 }
     .para{
-        margin-top:  20px;
-        margin-left: 30px; 
+        margin-top:  80px;
+        margin-left: 80px; 
     }
